@@ -11,7 +11,7 @@ int age = InputReader.readIntWithMessage(
 
 System.out.printf("%s is %d years old", name, age);
 ```
-The message before is optional. Here is the valid input types:
+The message is optional, as well as the validations. Here is the valid input types:
 * int
 * long
 * double
